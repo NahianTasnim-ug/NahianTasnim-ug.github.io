@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Nahian Tasnim"
 title_separator          : "-"
 name                     : &name "Nahian Tasnim"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Recent EEE graduate and Fall'27 PhD Aspirant"
   location         : "Dhaka, Bangladesh"
-  employer         : "Bangladesh University of Engineering and Technology"
+  employer         : "BUET"
   uri              : # URL
   email            : "nahiantasnim1@gmail.com" 
 
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : null # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "nahian_98.t"
   lastfm           : # Username
-  linkedin         : "nahian-tasnim-5466491b4"
+  linkedin         : "https://www.linkedin.com/in/nahian-tasnim-5466491b4/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
